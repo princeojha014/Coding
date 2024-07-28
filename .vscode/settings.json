@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "Java/Kunal Kushwaha/Practice/2. Conditions Loops",
         "Java/Kunal Kushwaha/Practice/1. First Java Program",
-        "Java/Kunal Kushwaha/Homework/2. Conditions Loops"
+        "Java/Kunal Kushwaha/Homework/2. Conditions Loops",
+        "Java/Kunal Kushwaha/Practice/3. Switch Statements"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
